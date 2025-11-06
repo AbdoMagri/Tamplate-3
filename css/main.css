@@ -1793,7 +1793,9 @@ footer .containor .find .our-info i {
     color: var(--main-color);
     font-size: 20px;
 }
-
+footer .containor .find .our-info p {
+    text-transform: capitalize;
+}
 footer .containor .find .phone p {
     padding-bottom: 10px;
 }
